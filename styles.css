@@ -1,0 +1,31 @@
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  overflow: hidden;
+  background-color: lightgray;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: green;
+  text-align: center;
+  padding: 18px;
+  text-decoration: underline;
+  font-size: 20px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a:hover {
+  background-color: gray;
+  color: red;
+}
+
+.img {
+  padding: 20px;
+}
